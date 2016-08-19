@@ -3,10 +3,8 @@ Tryzub Ukrainian Stamp Album
 
 This the Github repository for the Tryzub Ukrainian Stamp Album
 
-4-25-2106
+See available releases here:
 
-Version 1.0 of the 2015 Ukrainian Supplement is now available!
-
-You can download it from here:  https://github.com/apastuszak/tryzub-ukrainian-stamp-album/archive/v1.0.zip
+https://github.com/apastuszak/tryzub-ukrainian-stamp-album/releases
 
 <img src="http://i.imgur.com/xCiUNsg.png" alt="2015">
