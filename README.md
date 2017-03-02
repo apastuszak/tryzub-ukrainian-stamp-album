@@ -7,4 +7,4 @@ See available releases here:
 
 https://github.com/apastuszak/tryzub-ukrainian-stamp-album/releases
 
-<img src="http://i.imgur.com/xCiUNsg.png" alt="2015">
+<img src="Ukraine-2000-A4-PMSG-page010.png" alt="2000">
